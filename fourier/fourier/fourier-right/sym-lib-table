@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name fourier-right-rescue)(type Legacy)(uri ${KIPRJMOD}/fourier-right-rescue.lib)(options "")(descr ""))
+)
